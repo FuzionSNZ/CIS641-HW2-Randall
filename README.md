@@ -26,3 +26,5 @@ Personal
 * Hacking: Ethically of course, just to test out games, their defences, and how to improve them, prevent them from being hacked.
 
 Here is a link yo my favorite [meme](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Ftalia_the_taco%2Fstatus%2F845732066423705600&psig=AOvVaw3ZKRCdjDtdmdPVNwrIT_e8&ust=1726354969291000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPiF4syDwYgDFQAAAAAdAAAAABAE)
+
+Here is a link to my [website](https://thesnzent.com)

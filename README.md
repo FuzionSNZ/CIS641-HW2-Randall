@@ -3,7 +3,7 @@
 
 
 * Music Composition
-* Creation
+* Creation / Invention / Innovation
 * Entertainment
 
 ## Technical Background 

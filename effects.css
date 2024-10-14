@@ -49,11 +49,11 @@ section#left, section#right {
 
 
 section#left aside {
-   transform: rotateY(25deg);
+   transform: rotateY(10deg);
 }
 
 section#right aside {
-   transform: rotateY(-25deg);
+   transform: rotateY(-10deg);
 }
 
 /* Cube Styles */
